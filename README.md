@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m zakariae AKA @electricpizzza
 
-- 👀 I’m interested in everything IT related
+- 👀 I’m interested in everything IT related, Solving problems, New technologies, Indie & retro games and Nintendo culture.
 
-- 🌱 I’m currently working as a software developper for a startup company called [Inventis](https://inventis.ma/)
+- 🌱 I’m currently working as a software developper for a startup company called [Inventis](https://inventis.ma/).
 
 - 💞️ I’m looking to collaborate on many projects
 
