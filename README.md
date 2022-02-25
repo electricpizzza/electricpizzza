@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in everything IT related, Solving problems, New technologies, Indie & retro games and Nintendo culture.
 
-- 🌱 I’m currently working as a software developper for a startup company called [Inventis](https://inventis.ma/),also working on my own projects, At the same time I am learning machine learning and artificial intelligence technologies like TensorFlow.
+- 🌱 I’m currently working as a software developper for a startup company called [Inventis Engineering](https://inventis.ma/), also working on my own projects, At the same time I am learning machine learning and neural network's technologies like TensorFlow.
 
 - 💞️ I’m looking to collaborate on many projects
 
